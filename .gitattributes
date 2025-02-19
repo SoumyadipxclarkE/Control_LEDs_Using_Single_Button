@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# This project uses an Arduino to control LEDs using a button.
+* The LED is toggled between ON and OFF states each time the button is pressed. The button press is debounced to avoid multiple toggles from a single press.
